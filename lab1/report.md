@@ -52,7 +52,7 @@
 
 > **Скриншот:** Создание бота в Telegram с помощью @BotFather
 
-![BotFather](2026-chatbots-u4125-mazhukina_i_g/lab1/images/telegram-1.jpg)
+![BotFather](lab1/images/telegram-1.jpg)
 
 ![BotFather](2026-chatbots-u4125-mazhukina_i_g/lab1/images/telegram-2.jpg)
 
