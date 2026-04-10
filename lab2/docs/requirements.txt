@@ -1,0 +1,7 @@
+# 20.7 — как в задании. На Python 3.14 пакет 20.x падает при Application.build() (баг __slots__ в Updater);
+# для 3.14+ pip подтянет ветку 21.x с тем же async API.
+python-telegram-bot==20.7; python_version < "3.14"
+python-telegram-bot>=21.0,<22; python_version >= "3.14"
+python-dotenv>=1.0.0
+pandas>=2.0.0
+requests>=2.31.0
