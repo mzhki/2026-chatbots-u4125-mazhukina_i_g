@@ -50,8 +50,6 @@
 
 Открыла @BotFather в Telegram, отправила команду /newbot, придумайте название бота - Feedback bot, придумайте username (формат: itmoftmi_MIG_bot), сохранила полученный токен в безопасном месте
 
-> **Скриншот:** Создание бота в Telegram с помощью @BotFather
-
 ![BotFather](../images/telegram1.jpg)
 
 ![BotFather](../images/telegram2.jpg)
