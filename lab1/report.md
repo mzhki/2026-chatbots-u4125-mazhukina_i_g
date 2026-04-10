@@ -50,9 +50,8 @@
 
 Открыла @BotFather в Telegram, отправила команду /newbot, придумайте название бота - Feedback bot, придумайте username (формат: itmoftmi_MIG_bot), сохранила полученный токен в безопасном месте
 
-![BotFather](../images/telegram1.jpg)
-
-![BotFather](../images/telegram2.jpg)
+![@BotFather](../images/telegram1.jpg)
+![@BotFather](../images/telegram2.jpg)
 
 ### 3. Составление промпта для LLM
 
@@ -119,8 +118,8 @@
 После копирования промпта в Cursor, получила сгенерированный код, с помощью промпта файлы сами сохранились в сгенерированную папку проекта telegram-feedback-bot.
 Сгенерированный файл env.example я изменила на .env и внесла токен и свой ID как руководителя, то есть вставила токен в переменную окружения.
 
-![@BotFather](../images/prompt.jpg)
-![@BotFather](../images/token.jpg)
+![Скрин](../images/prompt.jpg)
+![Скрин](../images/token.jpg)
 
 ### 5. Запуск и тестирование
 
