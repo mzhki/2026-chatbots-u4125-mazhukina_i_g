@@ -47,13 +47,13 @@
 ### 3. Деплой
 
 Зарегистрировалась в ngrok, получила токен. Установила по инструкции на сайте.
-![Инструкция по установке ngrok](../images/ngrok.jpg)
+![Инструкция по установке ngrok](lab3/images/ngrok.jpg)
 
 Запустила бота через python.by и не отключала терминал.
 
 Затем натроила webhook в телеграме, проверила, что он настроен.
-![Скрин](../images/webhook1.jpg)
-![Скрин](../images/webhook2.jpg)
+![Скрин](lab3/images/webhook1.jpg)
+![Скрин](lab3/images/webhook2.jpg)
 
 ### 4. Тестирование деплоя
 
@@ -61,8 +61,9 @@
 После этого все заработало.
 
 Переслала бота друзьям получила скрины.
-![Скрин](../images/feedback1.jpg)
-![Скрин](../images/feedback2.jpg)
+![Скрин](lab3/images/feedback1.jpg)
+![Скрин](lab3/images/feedback2.jpg)
+![Скрин](lab3/images/feedback3.jpg)
 
 ### 5. Фидбэк
 
@@ -74,7 +75,7 @@
 
 ```
 Команда работает успешно.
-![Скрин](../images/delete.jpg)
+![Скрин](lab3/images/delete.jpg)
 
 ### 4. Выводы
 
