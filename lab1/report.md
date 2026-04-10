@@ -48,10 +48,11 @@
 
 ### 2. Создание бота в Telegram
 
-Открыла @BotFather в Telegram, отправила команду /newbot, придумайте название бота - Feedback bot, придумайте username (формат: itmoftmi_MIG_bot), сохранила полученный токен в безопасном месте
+Открыла @BotFather в Telegram, отправила команду /newbot, придумайте название бота - Feedback bot, придумаkd username (формат: itmoftmi_MIG_bot), сохранила полученный токен в безопасном месте
 
-![@BotFather](../images/telegram1.jpg)
-![@BotFather](../images/telegram2.jpg)
+[Скрин](../images/telegram1.jpg)
+
+[Скрин](../images/telegram2.jpg)
 
 ### 3. Составление промпта для LLM
 
